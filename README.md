@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thesiddiqui3
-- 👀 I’m interested in Python
+- 👀 I’m interested in java
 - 🌱 I’m currently learning and devlop my skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
